@@ -1,7 +1,7 @@
 # DevCamperAPI
 DevCamper is a Node.js API that uses MongoDB and Express
 
-![](https://curtisaallen.github.io/HooksNews/bg.png)
+![](https://curtisaallen.github.io/DevCamperAPI/bg.png)
 
 ## Project setup
 ```
