@@ -88,7 +88,7 @@ app.get('/', function(req, res) {
     res.send('Welcome to Devcamper API')
 })
 
-
+// UnhandledRejection
 process.on('unhandledRejection', (err, promise) => {
     console.log(err, ' server.js');
     console.log(`Error: ${err.message}`.red);
